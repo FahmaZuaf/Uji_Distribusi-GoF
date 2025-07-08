@@ -1,0 +1,45 @@
+# 📦 Team10Pack
+
+*Team10Pack* adalah package R sederhana untuk: - Simulasi data dari berbagai distribusi statistik - Uji Goodness-of-Fit (GoF) menggunakan uji Kolmogorov-Smirnov (kontinu) dan Chi-Square (diskrit) - Visualisasi distribusi data terhadap distribusi teoritis
+
+> 📚 Dibuat oleh *Kelompok 10 – Komputasi Statistika 2025*
+
+-   Sri Wahyuni (23611068)
+-   Fahma Zuaf Zarir (23611054)
+-   Larsati Oktarani (23611073)
+-   Arya Dirgantara Alfiqhri (23611103)
+
+------------------------------------------------------------------------
+
+## 🚀 Fitur Utama
+
+-   ✅ simulate_data() — Simulasi data dari 8 distribusi umum
+-   ✅ uji_gof() — Uji kesesuaian distribusi (GoF)
+-   ✅ visual_gof() — Visualisasi histogram + PDF teoritis
+-   ✅ Dukungan distribusi:
+    -   *Kontinu*: Normal, Eksponensial, Gamma, Uniform, Log-normal
+    -   *Diskrit*: Binomial, Poisson, Geometrik
+
+------------------------------------------------------------------------
+
+## 📦 Instalasi
+
+Install dari folder lokal (setelah cloning/download):
+
+### Install devtools jika belum
+
+``` r
+install.packages("devtools")
+```
+
+### Install package dari direktori lokal
+
+``` r
+devtools::install("path/to/Team10Pack")
+```
+
+### Install package dari GitHub
+
+``` r
+devtools::install_github("FahmZuaf/Team10Pack")
+```
