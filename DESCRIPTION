@@ -9,9 +9,7 @@ Authors@R: c(
       role = c("aut", "cre")
     )
   )
-Description: Menyediakan fungsi untuk mensimulasikan data dari berbagai distribusi statistik umum, 
-melakukan uji kesesuaian distribusi (Chi-square dan Kolmogorov-Smirnov), serta visualisasi data 
-dalam bentuk histogram dan overlay PDF distribusi
+Description: Menyediakan fungsi untuk mensimulasikan data dari berbagai distribusi statistik umum, melakukan uji kesesuaian distribusi (Chi-square dan Kolmogorov-Smirnov), serta visualisasi data dalam bentuk histogram dan overlay PDF distribusi.
 License: GPL-3
 Encoding: UTF-8
 LazyData: true
