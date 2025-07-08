@@ -4,14 +4,15 @@ Title: What the Package Does (Title Case)
 Version: 0.1.0
 Authors@R: c(
     person(
-      "Jane", "Doe",
-      email = "jane@example.com",
+      "Team", "10",
+      email = "fahmazuafzarir14@gmail.com",
       role = c("aut", "cre")
     )
   )
-Description: More about what it does (maybe more than one line).
-    Continuation lines should be indented.
-License: GPL-3
+Description: Menyediakan fungsi untuk mensimulasikan data dari berbagai distribusi statistik umum, 
+melakukan uji kesesuaian distribusi (Chi-square dan Kolmogorov-Smirnov), serta visualisasi data 
+dalam bentuk histogram dan overlay PDF distribusi.
+License: MIT
 Encoding: UTF-8
 LazyData: true
 RoxygenNote: 7.3.2
